@@ -1,5 +1,12 @@
 #!/bin/bash
 
+# Linux-No-IP-DDNS-Update-Client
+# Linux client program for update No-IP DDNS record
+# https://github.com/ronald8192/Linux-No-IP-DDNS-Update-Client/
+# MIT License
+
+# ver1 - 2018-02-06
+
 USERNAME=""
 PASSWORD=""
 HOSTNAME=""
