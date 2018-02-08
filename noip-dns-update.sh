@@ -5,7 +5,7 @@
 # https://github.com/ronald8192/Linux-No-IP-DDNS-Update-Client/
 # MIT License
 
-# ver1 - 2018-02-06
+# ver1.1 - 2018-02-08
 
 if [ -z $NOIPUSER ] || [ -z $PASSWORD ] || [ -z $HOSTNAME ]; then
   echo "No-IP username/password/hostname not definded"
